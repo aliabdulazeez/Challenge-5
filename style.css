@@ -3,3 +3,33 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+
+
+.container{
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+}
+
+
+.dashboard{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+}
+
+.overwiew-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+}
